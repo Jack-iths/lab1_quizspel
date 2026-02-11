@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Quiz App</title>
+    <link rel="stylesheet" href="style.css" />
+    <script src="app.js" defer></script>
+  </head>
+  <body>
+    <main class="app-main">
+      
+      <header class="quiz-header">
+        <h1 id="app-header-text">Quiz App</h1>
+      </header>
+
+      <section id="quiz-list-view">
+        <h2>Available Quizzes</h2>
+        <ul id="quiz-list"></ul>
+      </section>
+
+      <section id="quiz-play-view" hidden>
+        <button id="quiz-back-btn" type="button" class="btn-link">⟵ Back to Quizzes</button>
+        
+        <h2 id="quiz-title"></h2>
+        <form id="quiz-form"></form>
+        
+        <div class="quiz-actions">
+          <button id="quiz-submit-btn" type="button">Submit Answers</button>
+          <p id="quiz-result"></p>
+        </div>
+      </section>
+
+    </main>
+  </body>
+</html>

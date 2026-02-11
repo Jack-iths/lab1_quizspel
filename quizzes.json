@@ -1,0 +1,253 @@
+[
+  {
+    "id": "general-knowledge-set",
+    "title": "General Knowledge",
+    "description": "A collection of medium-difficulty facts ranging from history to corporate origins.",
+    "questions": [
+      {
+        "id": "gk-q1",
+        "text": "Who is a co-founder of music streaming service Spotify?",
+        "options": [
+          "Sean Parker",
+          "Felix Miller",
+          "Daniel Ek",
+          "Michael Breidenbruecker"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "gk-q2",
+        "text": "What did the Spanish autonomous community of Catalonia ban in 2010, that took effect in 2012?",
+        "options": ["Fiestas", "Bullfighting", "Flamenco", "Mariachi"],
+        "correctIndex": 1
+      },
+      {
+        "id": "gk-q3",
+        "text": "When did the website 'Facebook' launch?",
+        "options": ["2005", "2003", "2006", "2004"],
+        "correctIndex": 3
+      },
+      {
+        "id": "gk-q4",
+        "text": "What English word means to 'think deeply'?",
+        "options": ["Confiscate", "Constipate", "Contemplate", "Condensate"],
+        "correctIndex": 2
+      },
+      {
+        "id": "gk-q5",
+        "text": "Which American manufactured submachine gun was informally known by the American soldiers that used it as 'Grease Gun'?",
+        "options": ["Colt 9mm", "Thompson", "M3", "MAC-10"],
+        "correctIndex": 2
+      },
+      {
+        "id": "gk-q6",
+        "text": "Frank Lloyd Wright was the architect behind what famous building?",
+        "options": [
+          "The Guggenheim",
+          "Villa Savoye",
+          "Sydney Opera House",
+          "The Space Needle"
+        ],
+        "correctIndex": 0
+      },
+      {
+        "id": "gk-q7",
+        "text": "Which famed architect, who died in 2019 aged 102, designed the glass pyramid at the Louvre museum in Paris?",
+        "options": ["Pascale Guédot", "I. M. Pei", "Frank Gehry", "Wang Shu"],
+        "correctIndex": 1
+      },
+      {
+        "id": "gk-q8",
+        "text": "What is a dead mall?",
+        "options": [
+          "A mall with no stores",
+          "A mall that has been condemned",
+          "A mall with high vacancy rates or low consumer foot traffic",
+          "A mall after business hours"
+        ],
+        "correctIndex": 2
+      },
+      {
+        "id": "gk-q9",
+        "text": "What is the romanized Russian word for 'winter'?",
+        "options": ["Leto", "Vesna", "Osen", "Zima"],
+        "correctIndex": 3
+      },
+      {
+        "id": "gk-q10",
+        "text": "In the Morse code, which letter is indicated by 3 dots?",
+        "options": ["O", "A", "C", "S"],
+        "correctIndex": 3
+      }
+    ]
+  },
+  {
+    "id": "anime-manga-set",
+    "title": "Entertainment: Japanese Anime & Manga",
+    "description": "Questions regarding series production, characters, and voice acting.",
+    "questions": [
+      {
+        "id": "am-q1",
+        "text": "In the anime 'Mr. Osomatsu', how many brothers does Osomatsu-san have?",
+        "options": ["6", "7", "4", "5"],
+        "correctIndex": 3
+      },
+      {
+        "id": "am-q2",
+        "text": "Which anime did Seiji Kishi NOT direct?",
+        "options": [
+          "Humanity Has Declined",
+          "Assassination Classroom",
+          "Danganronpa: The Animation",
+          "Another"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "am-q3",
+        "text": "What year did the anime 'Himouto! Umaru-chan' air?",
+        "options": ["2014", "2012", "2013", "2015"],
+        "correctIndex": 3
+      },
+      {
+        "id": "am-q4",
+        "text": "What year did 'Attack on Titan' Season 2 begin airing?",
+        "options": ["2018", "2019", "2020", "2017"],
+        "correctIndex": 3
+      },
+      {
+        "id": "am-q5",
+        "text": "In 'Puella Magi Madoka Magica', what is the first name of Madoka's younger brother?",
+        "options": ["Montoya", "Tomohisa", "Minato", "Tatsuya"],
+        "correctIndex": 3
+      },
+      {
+        "id": "am-q6",
+        "text": "The main antagonist of the second part of JoJo's Bizarre Adventure is which of the following?",
+        "options": ["Erina Joestar", "Santana", "Wired Beck", "Kars"],
+        "correctIndex": 3
+      },
+      {
+        "id": "am-q7",
+        "text": "In 'Shakugan no Shana' what was Shana usually referred as?",
+        "options": [
+          "Flame Haze",
+          "Flame-Haired Burning-Eyed Haze",
+          "Shana",
+          "Flame-Haired Burning-Eyed Hunter"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "am-q8",
+        "text": "Who voices the character 'Reigen' in the English dub of 'Mob Psycho 100'?",
+        "options": [
+          "Max Mittelman",
+          "Kyle McCarley",
+          "Casey Mongillo",
+          "Chris Niosi"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "am-q9",
+        "text": "Which of the stands from 'JoJo's Bizarre Adventure' mimics the likeness of a tomato?",
+        "options": [
+          "Red Hot Chili Pepper",
+          "Cream Starter",
+          "Nut King Call",
+          "Pearl Jam"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "am-q10",
+        "text": "In 'One Piece', which one of the following is NOT an Ancient Weapon?",
+        "options": ["Uranus", "Poseidon", "Pluton", "Jupiter"],
+        "correctIndex": 3
+      }
+    ]
+  },
+  {
+    "id": "video-games-set",
+    "title": "Entertainment: Video Games",
+    "description": "Trivia covering retro mascots, PC gaming history, and modern titles.",
+    "questions": [
+      {
+        "id": "vg-q1",
+        "text": "In 'Paper Mario: The Thousand Year Door', what is Hooktail's weakness?",
+        "options": [
+          "Attacks from Koopas",
+          "The 'Ice Storm' Item",
+          "The Hammer",
+          "The Sound of Crickets"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "vg-q2",
+        "text": "What is the punishment for playing Postal 2 in New Zealand?",
+        "options": [
+          "Fine of $5,000",
+          "Nothing",
+          "15 years in prison and a fine of $10,000",
+          "10 years in prison and a fine of $50,000"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "vg-q3",
+        "text": "In 'PUBATTLEGROUNDS' what is the name of the Military Base island?",
+        "options": ["Novorepnoye", "Mylta", "Yasnaya", "Sosnovka"],
+        "correctIndex": 3
+      },
+      {
+        "id": "vg-q4",
+        "text": "Who was the mascot of SEGA before 'Sonic the Hedgehog'?",
+        "options": ["Opa Opa", "NiGHTS", "Ristar", "Alex Kidd"],
+        "correctIndex": 3
+      },
+      {
+        "id": "vg-q5",
+        "text": "Which one of these games came out first?",
+        "options": ["Minecraft", "Starbound", "Factorio", "Terraria"],
+        "correctIndex": 3
+      },
+      {
+        "id": "vg-q6",
+        "text": "In Star Wars: Republic Commando (2005), what is the name of the squad that you play as?",
+        "options": ["Omega Squad", "Echo Squad", "Alpha Squad", "Delta Squad"],
+        "correctIndex": 3
+      },
+      {
+        "id": "vg-q7",
+        "text": "In the video game 'League of Legends' which character is known as 'The Sinister Blade'?",
+        "options": ["Shaco", "Akali", "Zed", "Katarina"],
+        "correctIndex": 3
+      },
+      {
+        "id": "vg-q8",
+        "text": "The default playermodel of Garry's Mod is this Half Life 2 character.",
+        "options": ["G-Man", "Alyx Vance", "Gordon Freeman", "Isaac Kleiner"],
+        "correctIndex": 3
+      },
+      {
+        "id": "vg-q9",
+        "text": "What American city was featured in the 1999 PC game Midtown Madness?",
+        "options": [
+          "Washington D.C.",
+          "San Francisco",
+          "New York City",
+          "Chicago"
+        ],
+        "correctIndex": 3
+      },
+      {
+        "id": "vg-q10",
+        "text": "In PROTOTYPE 2, which of the following abilities/weapons is NOT obtained by an Evolved?",
+        "options": ["Blade", "Bio-Bomb", "Pack Leader", "Tendrils"],
+        "correctIndex": 3
+      }
+    ]
+  }
+]
