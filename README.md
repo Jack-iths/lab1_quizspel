@@ -14,13 +14,3 @@ A lightweight, responsive Quiz Application built with **Vanilla JavaScript**. Th
 
 ---
 
- Getting Started
-
- Prerequisites
-To run this project locally, you will need a basic local web server (due to browser security restrictions on `fetch()` calls for local JSON files).
-* **Recommended**: [VS Code Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) or Python's `http.server`.
-
- Installation
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/your-username/quiz-app.git](https://github.com/your-username/quiz-app.git)
